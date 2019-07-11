@@ -1,0 +1,3 @@
+家里：spark-submit  --properties-file /home/acrosspm/Timliang/spark.properties*  --class com.inspur.App /home/acrosspm/Timliang/demo-1.0-SNAPSHOT.jar 100 
+
+一线：spark-submit  --properties-file /home/acrosspm/Timliang/testSpark/spark.properties*  --class com.inspur.App /home/acrosspm/Timliang/testSpark/demo-1.0-SNAPSHOT.jar 100 
